@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject flattenSnippets="false" SelectedTarget="" TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="12">
+<LingoProject flattenSnippets="false" SelectedTarget="" TargetLanguage="fa;es" xml:lang="fa" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="12">
     <ProjectFile Source="Target/Diff2.flprj" Target="Target/Diff2.flprj" />
 </LingoProject>
